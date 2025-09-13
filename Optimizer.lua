@@ -5,8 +5,8 @@
 -- loadstring(game:HttpGet("https://.../Optimizer.lua"))()
 
 -- ======= EDIT THESE BEFORE HOSTING =======
-local KEY_URL = "https://raw.githubusercontent.com/youruser/yourrepo/main/keys.txt" -- raw link chứa danh sách keys (mỗi dòng 1 key)
-local ID_URL  = "https://raw.githubusercontent.com/youruser/yourrepo/main/ids.txt"  -- raw link chứa danh sách ids (mỗi dòng 1 id)
+local KEY_URL = "https://raw.githubusercontent.com/BooPowerFull/BloxFruitExecute/refs/heads/main/key.txt" -- raw link chứa danh sách keys (mỗi dòng 1 key)
+local ID_URL  = "https://raw.githubusercontent.com/BooPowerFull/BloxFruitExecute/refs/heads/main/id.txt"  -- raw link chứa danh sách ids (mỗi dòng 1 id)
 local DISCORD_LINK = "https://discord.gg/yourlink" -- contact link (user will copy)
 -- ========================================
 
